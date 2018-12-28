@@ -2,17 +2,16 @@
 # Case Study I: Analyzing Beer Datasets
 
 <hr>
+
+**Authors:**   Tom Bresee and Cherish XYZ
+
+**Date:**  December 2018
+
 <br>
 
--  Authors:  Tom Bresee and Cherish XYZ
+## *Introduction*  
 
--  Date:  December 2018
-
-<br>
-
-## *Introduction*
-
-### Dataset Description:
+#### Dataset Description:
 
  -  Original data sources
 
