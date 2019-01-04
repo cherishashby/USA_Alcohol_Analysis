@@ -3,11 +3,13 @@
 
 <hr>
 
-**Authors:**   Tom Bresee and Cherish XYZ
+**Authors:**   Tom Bresee and Cherish Ashby
 
 **Date:**  December 2018
 
+
 <br>
+
 
 ## *Introduction*  
 
