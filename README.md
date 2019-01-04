@@ -1,5 +1,5 @@
 
-# Case Study I: Analyzing Beer Datasets
+# Analyzing Beer Datasets
 
 <hr>
 
