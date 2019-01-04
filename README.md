@@ -5,7 +5,7 @@
 
 **Authors:**   Tom Bresee and Cherish Ashby
 
-**Date:**  December 2018
+**Date:**  January 2019
 
 
 <br>
@@ -15,7 +15,11 @@
 
 #### Dataset Description:
 
- -  Original data sources
+ -  The beer dataset provided contain a list of 2,410 US craft beers and their characteristics, as well as a breweries dataset containing pertinent information about 558 US breweries.  
+
+
+
+ Original data sources
 
 
 <br>
